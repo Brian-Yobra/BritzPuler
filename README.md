@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BritzPuler
 - 👀 I’m interested in malware dev and software dev
-- 🌱 I’m currently taking computer science in university of eldoret
 - 💞️ I’m looking to collaborate on software development
 
 <!---
